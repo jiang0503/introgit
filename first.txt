@@ -4,3 +4,4 @@ git add
 git commit
 git rm
 git first-commit
+git新しい文章
